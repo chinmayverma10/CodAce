@@ -1,0 +1,71 @@
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #686868;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+.product-device-2 {
+    top: -25%;
+    right: auto;
+    bottom: 0;
+    left: 5%;
+    background-color: #e5e5e5;
+}
+
+.product-device {
+    position: absolute;
+    right: 10%;
+    bottom: -30%;
+    width: 300px;
+    height: 540px;
+    background-color: #333;
+    border-radius: 21px;
+    transform: rotate(
+30deg
+)}
+
+
+.product-device {
+    position: absolute;
+    right: 10%;
+    bottom: -30%;
+    width: 300px;
+    height: 540px;
+    background-color: #333;
+    border-radius: 21px;
+    transform: rotate( 
+30deg
+ );
+}
+.product-device-2 {
+    top: -25%;
+    right: auto;
+    bottom: 0;
+    left: 5%;
+    background-color: #e5e5e5;
+}
+
+.ytlogo{
+    position: relative;
+    top: 25%;
+}
+
+
+.aim{
+    background-color: black;
+    color: white;
+    margin: 3%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.news{
+    width: 50vw;
+    background-color: black;
+    margin: auto;
+}
+
+.newsmain{
+    background-color: black;
+}

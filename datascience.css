@@ -1,0 +1,22 @@
+.heading{
+    text-align: center;
+    font-family: cursive;
+}
+.dsprereq{
+    text-align: center;
+    font-family: cursive;
+}
+.dsprereqcontent{
+    padding: 2vw;
+    margin: 5vw;
+    border-radius: 10px;
+    font-family: cursive;
+    border: 2px solid black;
+}
+.dsroadmap{
+    padding: 2vw;
+    margin: 5vw;
+    border-radius: 10px;
+    font-family: cursive;
+    border: 2px solid black;
+}
